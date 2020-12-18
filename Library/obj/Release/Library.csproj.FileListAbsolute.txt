@@ -1,0 +1,6 @@
+C:\Users\Михаил\source\repos\Library\Library\bin\Release\Library.dll
+C:\Users\Михаил\source\repos\Library\Library\bin\Release\Library.pdb
+C:\Users\Михаил\source\repos\Library\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\Library\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Library\Library\obj\Release\Library.dll
+C:\Users\Михаил\source\repos\Library\Library\obj\Release\Library.pdb

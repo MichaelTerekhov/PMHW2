@@ -1,0 +1,14 @@
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.deps.json
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.runtimeconfig.json
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.dll
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.pdb
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.csproj.CopyComplete
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.dll
+C:\Users\Михаил\source\repos\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp2.0\BettingPlatformEmulatorTest.pdb

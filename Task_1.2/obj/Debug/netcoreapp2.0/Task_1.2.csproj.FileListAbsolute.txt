@@ -1,0 +1,14 @@
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Task_1.2.deps.json
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Task_1.2.runtimeconfig.json
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Task_1.2.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Task_1.2.dll
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Task_1.2.pdb
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\Михаил\source\repos\Library\Task_1.2\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.csproj.CopyComplete
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.dll
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.pdb
+C:\Users\Михаил\source\repos\Library\Task_1.2\obj\Debug\netcoreapp2.0\Task_1.2.csprojResolveAssemblyReference.cache
